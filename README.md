@@ -1,5 +1,7 @@
 "# RabbitMQProducer" 
 
+Owner: Shikhar Kannoje <shikharkannoje09@gmail.com>
+
 # Links
 Producer:  https://github.com/ShikharKannoje/RabbitMQProducer
 
